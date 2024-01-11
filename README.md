@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Greico
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Vidrios greico. Landing page tipo brochure para mostrar servicios y trabajos realizados.
+
 
 ## Available Scripts
 
